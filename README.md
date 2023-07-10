@@ -7,7 +7,7 @@ Bem-vindo ao projeto do Clone do Spotify!
 
 Assista a uma breve demonstração do projeto no vídeo abaixo:
 
-[!(https://drive.google.com/file/d/1Rc3xWUIqDbQ-qq2L8JHVpGdWe4fV2lRi/view?usp=sharing)]
+[!(https://drive.google.com/file/d/1p7o1Hrh8MxAYFUUlDdlUaet1WdoXh--z/view?usp=sharing)]
 
 
 ## Descrição

@@ -118,6 +118,7 @@ body {
   background: black;
   color: white;
   padding: 80px 0;
+  font-size: 0.9rem;
 }
 
 #footer .footer-content {
@@ -128,7 +129,7 @@ body {
 }
 
 #footer .footer-content .footer-menu {
-  margin: 0 40px;
+  margin: 0 20px;
   list-style: none;
 }
 
@@ -144,7 +145,6 @@ body {
   color: inherit;
   text-decoration: none;
   white-space: nowrap;
-  
 }
 
 #footer .footer-content .footer-menu p a:hover {
@@ -190,7 +190,8 @@ body {
 
 #footer .footer-content .socials a i {
   margin: 0 20px;
-  font-size: 1.7rem;
+  font-size: 1.6rem;
+  margin-left: 0;
 }
 
 /* Footer info */
